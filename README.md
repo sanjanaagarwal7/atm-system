@@ -1,5 +1,5 @@
 # atm-system <br>
-It is a system made using C++ which simulates basic ATM features like balance inquiries , cash withdrawls , and displaying user details. <br>
+It is a system made using C++ which simulates basic ATM features like balance inquiries , cash withdrawals , and displaying user details. <br>
 # Features <br>
 -> It allows cash withdrawls and displays details . <br>
 -> It allows updating the account holder's mobile number . <br>
